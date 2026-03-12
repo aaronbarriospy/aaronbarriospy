@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there! I'm Aaron Barrios
+**Operations Coordinator transitioning into Software Development**
 
-<!--
-**aaronbarriospy/aaronbarriospy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I blend operational efficiency, bilingual communication (English C1/Spanish), and analytical problem-solving with growing expertise in software engineering. Currently training intensively at **Penguin Academy**.
 
-Here are some ideas to get you started:
+#### Tech Stack & Tools
+* **Languages:** Python, C++, SQL, HTML
+* **Concepts:** Object-Oriented Programming (OOP), Data Structures (BFS, Backtracking), Computational Logic
+* **Tools:** Git, GitHub, VS Code, Jira, Looker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Current Focus
+Building modular architectures in Python and solving complex algorithmic challenges (like automated maze solvers) using C++. 
+
+📫 **Let's connect on [LinkedIn](www.linkedin.com/in/aaron-barrios-py)**
