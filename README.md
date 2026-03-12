@@ -11,4 +11,4 @@ I blend operational efficiency, bilingual communication (English C1/Spanish), an
 #### 🚀 Current Focus
 Building modular architectures in Python and solving complex algorithmic challenges (like automated maze solvers) using C++. 
 
-📫 **Let's connect on [LinkedIn](www.linkedin.com/in/aaron-barrios-py)**
+📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/aaron-barrios-py)**
